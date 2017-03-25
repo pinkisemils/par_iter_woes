@@ -1,0 +1,8 @@
+[package]
+name = "bignum_rayon"
+version = "0.1.0"
+authors = ["Emīls Piņķis <pinkisemils@gmail.com>"]
+
+[dependencies]
+num = "0.1"
+rayon = "0.6"
